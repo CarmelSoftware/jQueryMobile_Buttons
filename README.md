@@ -1,5 +1,5 @@
 # jQuery Mobile
-##XML Data Repository for Asp.Net MVC with all CRUD Operations
+##A jQuery Mobile App sampling the use of Buttons with Grouping , icons , headrr and footer buttons , fixed position and more
 ####By Carmel Schvartzman
 
 This jQuery Mobile code is the companion for the following Tutorial:
