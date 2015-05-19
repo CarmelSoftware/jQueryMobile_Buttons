@@ -1,0 +1,25 @@
+.content {
+    text-align:center;    
+    font:900 29px Lucida Handwriting;
+    font-style:italic;    
+    background:#F0FFFF;
+    color:#3399FF;
+}
+.footer {
+    font:700 10px Comic Sans MS;
+}
+.container {
+   text-align:center;
+}
+img { width:100px;height:100px;
+}
+body {
+    background: url(http://2.bp.blogspot.com/-xelj5CQvnZk/VVmYujP7fwI/AAAAAAAAKyo/T2FZCxtxlro/s1600/CIELO1.png);
+    background-size:100%;
+}
+.ui-page {
+    background: transparent;
+}
+.ui-content{
+    background: transparent;
+}
