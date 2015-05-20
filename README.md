@@ -1,5 +1,5 @@
 # jQuery Mobile
-##A jQuery Mobile App sampling the use of Buttons with Grouping , icons , header and footer buttons , fixed position and more
+##A jQuery Mobile App exemplifying the use of Buttons with Grouping , icons , header and footer buttons , fixed position and more...
 ####By Carmel Schvartzman
 
 This jQuery Mobile code is the companion for the following Tutorial:
@@ -10,9 +10,6 @@ This jQuery Mobile code is the companion for the following Tutorial:
  <img border="0" src="http://3.bp.blogspot.com/-Z-Ef-8nYOt4/VUnNhOOLuvI/AAAAAAAAKg4/OUZ2QhfpOvE/s1600/9.png" height="462" width="640" /> 
 
  <img border="0" src="http://1.bp.blogspot.com/-4ebo1zYeF9o/VUnNeNNvKAI/AAAAAAAAKgo/DLPJ5x8fJfA/s1600/10.png" height="466" width="640" /> 
-
-
-
 
 </a>
 
