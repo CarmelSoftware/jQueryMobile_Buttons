@@ -11,9 +11,6 @@ This jQuery Mobile code is the companion for the following Tutorial:
 
  <img border="0" src="http://1.bp.blogspot.com/-4ebo1zYeF9o/VUnNeNNvKAI/AAAAAAAAKgo/DLPJ5x8fJfA/s1600/10.png" height="466" width="640" /> 
 
-
-
-
 </a>
 
 ###<a href="http://themvcclub.blogspot.com/"   target="_new"  >The MVC Club</a>
